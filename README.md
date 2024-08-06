@@ -1,3 +1,2 @@
 # Hackerrank-SQL
-This repository contains all of the hackerrank tasks that I would solve, including their solutions. The motivation behind it was to keep track of my progress in addressing the hackerrank challenge; feel free to use it as a reference.
-
+This repository include all the hackerrank problems i'd solve including it's solution. The motive behind it was to keep in track regrading my progress in solving hackerrank problem, feel free to use it as a references
